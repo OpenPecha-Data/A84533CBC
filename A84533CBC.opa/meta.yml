@@ -1,0 +1,19 @@
+id: A84533CBC
+title: Guru Yoga of Rigdzin Jigme Lingpa
+type: translation
+pechas:
+- I98F18F29
+- I21360319
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:41:59.647686
+  last_modified_at: 2023-01-04 12:41:59.647705
+  collections:
+  - Jigme Lingpa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I98F18F29/E65A: 8FCF
+  I21360319/8942: 8FCF
